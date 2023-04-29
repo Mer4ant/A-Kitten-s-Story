@@ -6,6 +6,6 @@ A little game about a cute kitten!
 
 ### ฅ^•ﻌ•^ฅ
 
-Hey! I've got a present for you, here, a little kitty cat! Oooh... how cute is that? Now you have to take care of him :3 But you have to use kitten-script for that!
+Hey! I got you a present, here, a little kitty cat! Ohhhh... he's so cute! Do you want to pet him?
 
 > This repository is in development and serves as a portfolio to demonstrate skills in pixel-art, web-design, frontend
